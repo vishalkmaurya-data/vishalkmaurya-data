@@ -182,32 +182,6 @@ The project transforms provider-level healthcare data into an interactive analyt
 - ⚠️ Provider Risk Analysis
 - 🔎 Anomaly Investigation
 
-### 🧹 Data Preparation
-
-```text
-Raw Healthcare Data
-        ↓
-Data Type Validation
-        ↓
-Missing Value Analysis
-        ↓
-Missing Value Treatment
-        ↓
-Duplicate Detection
-        ↓
-Logical Validation
-        ↓
-Outlier Inspection
-        ↓
-Risk Indicator Development
-        ↓
-Provider Risk Categorization
-        ↓
-Final Data Quality Validation
-        ↓
-Dashboard-Ready Dataset
-```
-
 ### ⚠️ Risk Intelligence
 
 Provider-level analytical indicators were used to categorize providers across different risk levels and support further analytical investigation of unusual or potentially high-risk performance patterns.
@@ -230,7 +204,7 @@ The dashboard provides analytical views covering:
 
 ---
 
-# ✈️ 02 — Anshul Travel Agencies
+# ✈️ 02 — Anshul Travel Agencies — Customer & Business Analytics
 
 ### Customer & Business Analytics | SQL | Advanced Excel | Power BI | Python
 
